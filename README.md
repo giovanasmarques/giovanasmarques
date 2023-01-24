@@ -13,6 +13,7 @@ Olá, eu sou a Giovana! 👋
 
 ### Tecnologias que + uso:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanasmarques&layout=compact)](https://github.com/giovanasmarques/github-readme-stats)
 
 
 
